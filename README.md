@@ -1,2 +1,2 @@
-# Angular-Notes
+# Angular, Gulp, Notes
 Angular Notes
