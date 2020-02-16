@@ -1,0 +1,1 @@
+function rectangleArea(n,e){return n*e*10}function printMyName(){console.log("I am Iron Man.")}

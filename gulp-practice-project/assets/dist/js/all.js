@@ -1,0 +1,1 @@
+function rectangleArea(n,o){}function printMyName(){console.log("I am Iron Man.")}
